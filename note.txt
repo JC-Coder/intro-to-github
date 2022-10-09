@@ -1,0 +1,4 @@
+1. git iniit  // initialize git in our project 
+
+2. git add .  // add all projects / files in our project to git 
+            git add "class 4" // add only one file / folder
